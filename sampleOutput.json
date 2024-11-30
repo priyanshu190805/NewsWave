@@ -1,0 +1,196 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "9to5google.com" },
+      "author": "Abner Li",
+      "title": "Google Fi waiting on Apple to enable RCS for iPhone users - 9to5Google",
+      "description": "iOS 18 is rolling out today with RCS to improve Android-iPhone messaging, but support is not yet enabled for all carriers, like Google Fi...",
+      "url": "http://9to5google.com/2024/09/16/google-fi-rcs-iphone/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/google-fi-new-logo-2023-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-16T19:40:00Z",
+      "content": "iOS 18 is rolling out today with RCS to improve the Android-iPhone messaging experience, but support is not yet enabled for all carriers, including Google Fi Wireless.\r\nIn a statement, Google tells u… [+1502 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Storm Boris: Polish city evacuates as floods batter central Europe - BBC.com",
+      "description": "Several people have died across the Czech Republic, Austria, Romania and Poland following devastating floods.",
+      "url": "https://www.bbc.com/news/articles/c5yjjqyv84eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d521/live/45a8fd20-7416-11ef-8c1a-df523ba43a9a.jpg",
+      "publishedAt": "2024-09-16T19:22:29Z",
+      "content": "A flooded area in Nysa, Poland\r\nThe mayor of a Polish city has asked all 44,000 residents to evacuate, as widespread flooding continues to batter swathes of central Europe.\r\nNysa mayor Kordian Kolbia… [+5135 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "SCOTT SONNER",
+      "title": "Control of the Murdoch media empire could be at stake in a closed-door hearing in Nevada - The Associated Press",
+      "description": "A probate court in Nevada is set to begin reviewing evidence this week in a behind-closed-doors dispute that could determine who will control Rupert Murdoch’s media empire after his death. The New York Times reported based on a sealed court document that Murd…",
+      "url": "https://apnews.com/article/rupert-murdoch-news-corp-murdoch-family-trust-9a4b20037e43f46ad5934797579dcd8e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/20b3631/2147483647/strip/true/crop/4256x2394+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F30%2F6c075e238bcedc18fc88a894e56e%2F372c1473a33d40c1a68c6f0d976cd724",
+      "publishedAt": "2024-09-16T19:17:00Z",
+      "content": "RENO, Nev. (AP) A probate court in Nevada is set to begin reviewing evidence behind closed doors in a case that could determine who will control Rupert Murdochs media empire after his death.\r\nMurdoch… [+2510 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Taylor Herzlich",
+      "title": "Amazon orders employees to return to office 5 days a week, warns of corporate restructuring - New York Post ",
+      "description": "The return-to-office mandate is a sharp change from its current hybrid policy, which requires employees to work from the office at least three days a week.",
+      "url": "https://nypost.com/2024/09/16/business/amazon-orders-employees-to-return-to-the-office-5-days-a-week/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-9zeiufgpc-1726512112692.jpg?quality=75&strip=all&1726497758&w=1024",
+      "publishedAt": "2024-09-16T18:44:00Z",
+      "content": "Amazon is mandating that corporate workers return to the office five days a week, CEO Andy Jassy said in a note on Monday.\r\nThe return-to-office mandate is a sharp change from its current hybrid poli… [+2580 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "TERRY SPENCER, STEPHANY MATAT, ERIC TUCKER, ALANNA DURKIN RICHER, COLLEEN LONG",
+      "title": "Suspect in apparent assassination attempt on Trump was near golf course for 12 hours, records show - The Associated Press",
+      "description": "The man suspected in an apparent assassination attempt targeting former President Donald Trump camped outside a golf course with food and a rifle for nearly 12 hours before a Secret Service agent confronted him and opened fire. That's according to court docum…",
+      "url": "https://apnews.com/article/trump-fbi-assassination-attempt-fee81d8bcf737bfcde2ee8e5cea88465",
+      "urlToImage": "https://dims.apnews.com/dims4/default/16a1acc/2147483647/strip/true/crop/3732x2099+0+194/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2F88%2F3f1750992c0a702687e85499126f%2F5f9b292d34554530bc561780cf3001d0",
+      "publishedAt": "2024-09-16T18:43:00Z",
+      "content": "WEST PALM BEACH, Fla. (AP) The man suspected in an apparent assassination attempt targeting Donald Trump camped outside a golf course with food and a rifle for nearly 12 hours, lying in wait for the … [+5697 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Joe Rossignol",
+      "title": "Apple Leaks New Mac Mini With 5 USB-C Ports - MacRumors",
+      "description": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was...",
+      "url": "https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/",
+      "urlToImage": "https://images.macrumors.com/t/9tyzQZqo7v7TK2Atl8AjOMPjqRw=/2500x/article-new/2024/08/M4-Mac-mini-Black-Ortho-Cooler.jpg",
+      "publishedAt": "2024-09-16T18:40:49Z",
+      "content": "Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was discovered today by MacRumors contributor Aaron Perris… [+1137 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Financial Times" },
+      "author": null,
+      "title": "TikTok warns of ‘staggering’ consequences from US divest-or-ban law - Financial Times",
+      "description": null,
+      "url": "https://www.ft.com/content/b1c4c19f-094f-4e2c-a7c3-4285851e88fe",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T18:35:13Z",
+      "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T18:32:47Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Jane's Addiction cancel remaining tour dates after on-stage brawl - BBC.com",
+      "description": "The US band say they have made the \"difficult decision to take some time away as a group\" following the fight.",
+      "url": "https://www.bbc.com/news/articles/c4g55y1kk5lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c8fe/live/74967750-746d-11ef-8c1a-df523ba43a9a.jpg",
+      "publishedAt": "2024-09-16T18:24:10Z",
+      "content": "American band Jane's Addiction have cancelled the remaining dates of their tour, days after an on-stage brawl in Boston, Massachusetts.\r\nOn Friday night, the band - which hails from Los Angeles - cut… [+1478 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Ian Livingston",
+      "title": "How to watch Tuesday’s harvest moon and partial lunar eclipse - The Washington Post",
+      "description": "It’s called a supermoon — or in this case a super harvest moon — because it will be full at a time when it is unusually close to Earth on its elliptical orbit.",
+      "url": "https://www.washingtonpost.com/weather/2024/09/16/super-harvest-moon-partial-lunar-eclipse-where-to-watch/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALSSZ36GVKLPIZ7KYA5LWXL6YI.jpg&w=1440",
+      "publishedAt": "2024-09-16T18:23:11Z",
+      "content": "Septembers full moon rising elegantly and looming large in Tuesday evenings eastern sky will be one to pause and admire. Not only is it a supermoon, but a partial lunar eclipse will occur as the moon… [+3196 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Dominic Patten, Katie Campione",
+      "title": "Kamala Harris Makes Surprise Visit To Teamsters’ DC HQ; Union Hasn’t Endorsed A Candidate Yet - Deadline",
+      "description": "Kamala Harris Makes Surprise Visit To Teamsters' DC HQ; Union Hasn't Endorsed A Candidate Yet",
+      "url": "http://deadline.com/2024/09/kamala-harris-teamsters-visit-1236090718/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/Kamala.jpg?w=1024",
+      "publishedAt": "2024-09-16T18:21:00Z",
+      "content": "Kamala Harris sat down today in Washington D.C. with the Teamsters’ leadership and members for what could be the precursor to an endorsement for the Vice President from the powerful union.  \r\nThe mee… [+4186 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Axios",
+      "title": "U.S. warns Netanyahu against starting a war in Lebanon - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/09/16/israel-netanyahu-lebanon-hezbollah",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T18:19:31Z",
+      "content": null
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Sources: Panthers bench Young, to start Dalton - ESPN",
+      "description": "Veteran Andy Dalton is replacing Bryce Young as the starting quarterback for the Panthers after the team's 0-2 start, coach Dave Canales said Monday.",
+      "url": "https://www.espn.com/nfl/story/_/id/41288868/sources-andy-dalton-replacing-bryce-young-panthers-qb",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0921%2Fr1227712_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-09-16T18:01:00Z",
+      "content": "Sep 16, 2024, 02:01 PM ET\r\nThe Carolina Panthers are benching former first overall pick Bryce Young and going with veteran Andy Dalton as the starting quarterback, coach Dave Canales said Monday.\r\nTh… [+2376 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Riham Alkousaa",
+      "title": "Germany brings back border checks to curb migration, experts question impact - Reuters",
+      "description": "Germany reintroduced temporary border checks including at its frontiers with France and the Netherlands on Monday as part of efforts to combat irregular migration and cross-border crime.",
+      "url": "https://www.reuters.com/world/europe/germanys-tighter-border-controls-take-effect-irking-neighbours-2024-09-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/DVLN7VEKR5KJRERQLJM7LEZPSA.jpg?auth=2d796990c8a5a7399f8c6539cc02dd0141690ccf9ab23cd3909f35c095a21a23&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-09-16T17:27:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "JUAN A. LOZANO Associated Press",
+      "title": "A pipeline has exploded and is on fire in a Houston suburb, forcing evacuations - ABC News",
+      "description": "The pipeline fire forced evacuations, sparked grass fires, damaged a park.",
+      "url": "https://abcnews.go.com/US/wireStory/pipeline-exploded-fire-houston-suburb-forcing-evacuations-113730500",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-09-16T17:26:15Z",
+      "content": "LA PORTE, Texas -- A massive fire involving a liquified natural gas pipeline was shooting a towering pillar of flame for hours over suburban Houston on Monday as first-responders evacuated a surround… [+4259 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile - Samsung news",
+      "title": "Rollable Samsung phone with massive screen reportedly coming in 2025 - SamMobile - Samsung news",
+      "description": null,
+      "url": "https://www.sammobile.com/news/samsungs-rollable-phone-massive-screen-arriving-2025/",
+      "urlToImage": null,
+      "publishedAt": "2024-09-16T16:33:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Elizabeth Crisp",
+      "title": "Most in new survey say Taylor Swift’s endorsement has no impact on their vote - The Hill",
+      "description": "A new poll has found that Taylor Swift’s endorsement of Vice President Harris has little impact on the race, with 81% of voters surveyed saying it would not influence their vote.",
+      "url": "https://thehill.com/homenews/4881812-taylor-swift-endorsement-little-impact/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/Donald-Trump-Kamala-Harris-Taylor-Swift-09.11.png?w=1280",
+      "publishedAt": "2024-09-16T16:26:00Z",
+      "content": "Skip to content\r\nPop star Taylor Swift’s presidential endorsement was highly coveted, but it may have little impact on the race, a new poll has found.\r\nAbout 81 percent of voters surveyed in the ABC … [+2704 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kristen Rogers",
+      "title": "Pregnancy changes the brain more than previously known, study finds - CNN",
+      "description": "Researchers have created one of the most detailed maps of how pregnancy changes the brain, according to a new study.",
+      "url": "https://www.cnn.com/2024/09/16/health/how-pregnancy-changes-brain-study-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1310443783-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-09-16T16:04:00Z",
+      "content": "Researchers have created one of the first comprehensive maps of how the brain changes throughout pregnancy, substantially improving upon understanding of an understudied field.\r\nCertain brain regions… [+6900 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Falcoholic" },
+      "author": "AaronFreeman",
+      "title": "Intriguing players to watch in Falcons vs. Eagles - The Falcoholic",
+      "description": "Five Falcons to keep your eyes on when it comes time for a primetime game.",
+      "url": "https://www.thefalcoholic.com/2024/9/16/24244208/intriguing-players-to-watch-in-falcons-vs-eagles-drake-london-chris-lindstrom-matthew-judon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Q4t035LOxOcbry-s7Sm-5eC0yd4=/0x286:1200x914/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25620004/usa_today_24110930.jpg",
+      "publishedAt": "2024-09-16T16:00:00Z",
+      "content": "With another game on the horizon, I always endeavor to name five Atlanta Falcons. This week, the Falcons are looking to rebound after a disappointing season opener in an important primetime against t… [+4231 chars]"
+    }
+  ]
+}
